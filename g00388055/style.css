@@ -1,0 +1,81 @@
+body {
+			background-image: url(./images/Backgrounds/Repeat.png);
+			background-size:fit;
+}
+		
+		.carousel slide img{
+			height:500px;
+			object-fit:cover;
+		}
+		
+		.headingGrid{
+			margin-top:25px;
+			margin-bottom:25px; 
+			text-align:center;
+			style="color: dark;
+		}
+		
+		.gridrow{
+			padding-top:25px;
+		}
+		
+		.book {
+			padding-left:100px;
+			padding-right:10px;
+		}
+		
+			height:250px;
+		.card-img{
+			width:180px;
+			object-fit:cover;
+		}
+		
+		.card-img-cart{
+			
+			height:120px;
+			width:80px;
+		}
+		
+		#shoppingBagTable > tbody > tr > td {
+			 vertical-align:middle;
+		}
+		
+		#shoppingBagTable{
+			text-align:center;
+		}
+		
+		#shoppingBagMenuDropdown {
+			width:340px !important;
+		}
+		
+		.padding-0{
+			padding-right:0;
+			padding-left:0;
+		}
+		
+		.ellipsis{
+			white-space:nowrap; 
+			text-overflow:ellipsis; 
+			overflow:hidden; 
+			height:14px;
+		}
+		
+		.asText {
+			background:none;
+			border:none;
+			margin:0;
+			padding:0;
+			cursor:pointer;
+			color:dodgerblue;
+		}
+		
+		.asText:hover{
+			color:steelblue;
+		}
+		
+		.productCard{
+			width:540px;
+			background-color:silver;
+		}
+		
+	
