@@ -2,7 +2,7 @@
 This repository contains the project I submitted for the Web Applications Development module that was part of the HDip in Software Development.
 
 # Assignment
-For this assignment I had to create a business e-commerce website that employs the principles of HTML5, CSS and JavaScript which meets the requirements specified in the brief. I chose a sports wear company that employed a common design throughout.
+For this assignment I had to create a business e-commerce website that employs the principles of HTML5, CSS and JavaScript which meets the requirements specified in the brief. I chose a sportswear company that employed a common design throughout.
 
 # Requirements
 
